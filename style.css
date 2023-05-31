@@ -31,4 +31,19 @@
 
 .loja-div-conteudo{
     width: 35%;
+    color: black;
+}
+
+.cardapio-todos{
+ padding: 30px 0;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    
+}
+.cardapio-titulo{
+    font-size: xx-large;
+    padding: 20px 0;
+}
+.cardapio{
+    background-image: linear-gradient(  rgb(255, 174, 0) , rgb(255, 0, 0) );
 }
